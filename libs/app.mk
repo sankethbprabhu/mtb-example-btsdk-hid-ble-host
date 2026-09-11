@@ -4,7 +4,7 @@
 # the next time 'make getlibs' is run.
 #
 bsp-assistant config device-configurator dfuh-tool config_ezpd ez-pd-configurator modlibs library-manager qspi-configurator seglcd-configurator smartio-configurator config_usbdev usbdev-configurator capsense-configurator capsense-tuner edge-protect-configurator :
-	make -C LE_HID_Host $@
+	make -C mtb-example-btsdk-hid-ble-host $@
 
 config_bt bt-configurator config_lin lin-configurator secure-policy-configurator :
 	$(error $@ configurator cannot be executed at the application level. Run this command from the desired project directory.)
