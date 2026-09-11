@@ -38,7 +38,7 @@ endif
 #
 # Basic Configuration
 #
-APPNAME=BLE_HelloSensor
+APPNAME=mtb-example-btsdk-hid-ble-host
 TOOLCHAIN=GCC_ARM
 CONFIG=Debug
 VERBOSE=

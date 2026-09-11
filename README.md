@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LE Hello Sensor Sample application
 
 ## Overview
@@ -352,3 +353,7 @@ BTSDK Technical Brief and Release Notes are available [online](https://community
 
 <br>
 <sup>The Bluetooth&#174; word mark and logos are registered trademarks owned by Bluetooth SIG, Inc., and any use of such marks by Infineon is under license.</sup>
+=======
+# mtb-example-btsdk-hid-ble-host
+ModusToolbox Bluetooth SDK BLE HID host example
+>>>>>>> origin/main
